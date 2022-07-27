@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-#2 add info1
+#2 add info2
