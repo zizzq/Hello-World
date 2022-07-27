@@ -1,3 +1,6 @@
 # hello-world
-My first repository
-#2 add info2
+
+My first repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:
+
