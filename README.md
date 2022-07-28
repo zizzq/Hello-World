@@ -2,5 +2,7 @@
 
 My first repository on GitHub
 
-I love :coffee: :pizza:, and :dancer: 12
+
+I love :coffee: :pizza:, and :dancer: 1
+
 
